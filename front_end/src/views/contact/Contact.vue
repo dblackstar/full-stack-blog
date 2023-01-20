@@ -24,7 +24,7 @@
                           <i class="fa fa-phone" aria-hidden="true" style="font-size:48px;"></i>
                       </div>
                       <div>  
-                          <strong>+213 782 50 69 17</strong>
+                          <strong>+00 00 00 00</strong>
                       </div>
                       <div class="icon_title">
                           Call
